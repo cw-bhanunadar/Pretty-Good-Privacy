@@ -8,7 +8,7 @@ Both the encrypted message and the short key are sent to the receiver who first 
 
 Algo Used RSA for public key system, to encrypt key.
 Caesar Cipher for encrypt Plain text.
-
+GPG is an open-source implementation of OpenPGP
 Flow of the project
 1.Run Alice File, Enter the plain text
 
